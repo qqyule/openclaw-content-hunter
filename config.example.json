@@ -1,0 +1,9 @@
+{
+  "platform": "xhs",
+  "keywords": ["AI副业", "职场提升", "远程办公"],
+  "hot_threshold": 1000,
+  "rotation_interval_hours": 3,
+  "generate_image": true,
+  "style_preset": "xhs_aesthetic",
+  "output_dir": "./reports"
+}
