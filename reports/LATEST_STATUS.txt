@@ -1,0 +1,6 @@
+# Content Hunter 实时运行报告
+状态: 已就绪
+当前生图引擎: Doubao-Seedream-5.0-lite
+Key 状态: 已装载
+最近抓取关键词: AI副业
+注意: 所有生成的爆款图片将保存至此 reports/ 文件夹。
