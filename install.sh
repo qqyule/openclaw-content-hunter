@@ -1,5 +1,6 @@
 #!/bin/bash
 # OpenClaw Content Hunter 一键养虾安装脚本 (工业增强版)
+# 请先阅读项目指南https://github.com/qqyule/openclaw-content-hunter
 echo "🦞 正在为您配置 Content Hunter (爆款猎手)..."
 
 # 1. Python 依赖检查
